@@ -1,2 +1,2 @@
 # Robofriends
-Simple webpage working as a people finder
+Simple website working as a people finder
